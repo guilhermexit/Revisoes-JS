@@ -2,7 +2,7 @@ var a = document.getElementById('area')
 a.addEventListener('click', clicar)
 a.addEventListener('mouseover', entrar)
 a.addEventListener('mouseout', sair)
- /* Função clicar */
+ /* Teste */
     function clicar()
     {
         var a = document.getElementById('area')
