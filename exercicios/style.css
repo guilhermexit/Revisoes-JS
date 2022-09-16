@@ -1,0 +1,13 @@
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+#area {
+    font: normal 20pt Arial;
+    background: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+}
